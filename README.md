@@ -2,21 +2,6 @@
 
 Welcome to the Student Salary Prediction project! This repository contains all the code and resources related to predicting student salaries based on various factors. We've done extensive data analysis and built predictive models to help you understand the outcomes.
 
-## Table of Contents 📋
-
-- [Project Overview](#project-overview)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Building](#model-building)
-- [Model Selection](#model-selection)
-- [Hyperparameter Tuning](#hyperparameter-tuning)
-- [Feature Selection](#feature-selection)
-- [Feature Engineering](#feature-engineering)
-- [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview 📚📊
 
 In this project, we aimed to predict student salaries using various data analysis and machine learning techniques. We have covered several important aspects of the project:
@@ -67,10 +52,6 @@ Feel free to fork and clone the repository to explore the code and try it on you
 ## Contributing 🤝🙌
 
 We welcome contributions from the open-source community! If you have ideas for improvements or would like to report issues, please create a pull request or open an issue.
-
-## License 📜📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
