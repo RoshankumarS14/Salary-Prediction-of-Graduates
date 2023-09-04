@@ -6,11 +6,11 @@ Welcome to the Student Salary Prediction project! This repository contains all t
 
 In this project, the aim was to predict student salaries using various data analysis and machine learning techniques. Several important aspects of the project were covered:
 
-### Exploratory Data Analysis 📈🔍
+- ### Exploratory Data Analysis 📈🔍
 
 The dataset was explored, key statistics were visualized, and relationships between different variables were understood. EDA included count plots, histograms, box plots, heat maps, and pairwise scatter plots.
 
-### Data Preprocessing 🧹📝
+- ### Data Preprocessing 🧹📝
 
 Data preprocessing, crucial for modeling success, involved the application of transformations using the Yeo-Johnson method, encoding of categorical features using Target Encoding, and handling of missing values.
 
