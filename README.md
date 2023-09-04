@@ -55,8 +55,8 @@ Feel free to fork and clone the repository to explore the code and try it on you
 
 ## Contributing 🤝🙌
 
-We welcome contributions from the open-source community! If you have ideas for improvements or would like to report issues, please create a pull request or open an issue.
+I welcome contributions from the open-source community! If you have ideas for improvements or would like to report issues, please create a pull request or open an issue.
 
 ---
 
-We hope you find this project informative and useful. If you have any questions or feedback, don't hesitate to reach out. Happy coding! 🚀👩‍💻
+I hope you find this project informative and useful. If you have any questions or feedback, don't hesitate to reach out. Happy coding! 🚀👩‍💻
