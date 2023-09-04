@@ -12,7 +12,7 @@ In this project, the aim was to predict student salaries using various data anal
 
 2. **Data Preprocessing 🧹📝**
    
-   Prepare the data for modeling success by applying transformations using the Yeo-Johnson method, encoding categorical features using Target Encoding, and handling missing values.
+   Prepare the data for modeling success by applying transformations using the Yeo-Johnson method, encoding categorical features using Target Encoding, and treating outliers using capping method.
 
 3. **Model Building 🧱🤖**
    
